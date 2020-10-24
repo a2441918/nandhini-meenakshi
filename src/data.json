@@ -56,5 +56,14 @@
   "participation": {
     "university": ["Sponsored for International Summer School Programme'17 sponsored by the University of  Edinburgh, UK.", "Co-ordinated with Content ,Marketing, HR and Industrial Relations teams for various events."],
     "school": ["Script writing in Tamil for inter-school skit competitions", "Won Prizes in inter-school and intra-school essay writing competitions."]
-  }
+  },
+  "footer": [{
+    "type": "github",
+    "value": "abc",
+    "url": ""
+  }, {
+    "type": "linkedin",
+    "value": "nandhini-meenakshi",
+    "url": "https://www.linkedin.com/in/nandhini-meenakshi-18066a150"
+  }]
 }
