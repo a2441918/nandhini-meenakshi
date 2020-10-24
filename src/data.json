@@ -1,6 +1,6 @@
 {
   "name": "Nandhini Meenakshi",
-  "role": "Indian Civil Service Aspirant",
+  "roles": ["Indian Civil Service Aspirant", "Computer Science Engineer"],
   "contact": [
     {
       "type": "phone",
