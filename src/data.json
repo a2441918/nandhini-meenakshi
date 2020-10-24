@@ -1,0 +1,60 @@
+{
+  "name": "Nandhini Meenakshi",
+  "role": "Indian Civil Service Aspirant",
+  "contact": [
+    {
+      "type": "phone",
+      "value": "+91-93802-23540"
+    },
+    {
+      "type": "email",
+      "value": "nandhini.meenakshi@gmail.com"
+    },
+    {
+      "type": "location",
+      "value": "Chennai, India"
+    }
+],
+  "summary": "Highly ambitious and inquisitive person, preparing for Indian Civil Services Examinations, and looking for a mutually beneﬁcial environment that provides generous opportunities for learning ,solving and innovating.",
+  "education": [
+    {
+      "name": "College of Engineering, Guindy, Anna University, Chennai",
+      "duration": "2014-2018",
+      "degree": "Bachelor of Engineering in Computer Science",
+      "score": "CGPA: 8.11"
+    },
+    {
+      "name": "Anna Adarsh Matriculation Higher Secondary School, Chennai",
+      "duration": "2012-2014",
+      "degree": "Higher Secondary",
+      "score": "97.5%"
+    }
+  ],
+  "projects": [
+    "Query specific Multiple Newspaper articles summarization",
+    "Footboard Accident Prevention System (FAPS), an inter-department project funded by Kurukshetra (a technical festival with UNESCO patronage)",
+    "Metro Ticketing System, integrated with a safety component-METRO 24*7",
+    "The House-An educational value game using Virtual Reality"
+  ],
+  "interests": [
+    "With two years of civil services preparation, I have a fair knowledge in basic polity, socio-economic structure & the historical legacy of my country and its equation with world powers. Being an ardent politics follower , I am being trained at Political Science and International Relations(Masters level) for my Civil services specialization paper and it will be a great learning curve to put my skills into field-level politics."
+  ],
+  "skills": {
+    "technical": [
+      "C",
+      "C++", "Microsoft Office"
+    ],
+    "professional": ["Effective communication", "Team player","Strong problem solver", "Good time management"]
+  },
+  "areasOfInterest": ["Database Management System (DBMS)", "Datastructures","Policy making and analysis","West Asia Politics","International Relations and Area Studies","Content creation","Problem Solving","Public relations"],
+  "achievements": ["School topper in 10th and 12th board examination; District rank in 10th","Team project presentation in Technical and Innovative Projects'16 finale","Finalist of National Balshree Awards-2012 - for creative writing. It is one of the highest civilian award for children in India","Best budding writer award in the awareness drive conducted by Narcotics Control Bureau","Headed the Industrial relations team of the University Technical Symposium and coordinated with 7+ MNCs and Startups like Amazon and Freshworks ; Collaborated with industries and sought sponsorship worth 6 lakhs INR"],
+  "hobbies": ["Playing tennis", "Solving math puzzles,sudoku", "Content writing"],
+  "positionsHeld": {
+    "university": ["Student Director of the Industrial Relations Team","Class representative, organized National Industrial Visits", "Projects team Head in Kurukshetra (Technical event)"],
+    "school": ["Science Club Secretary"]
+  },
+  "participation": {
+    "university": ["Sponsored for International Summer School Programme'17 sponsored by the University of  Edinburgh, UK.", "Co-ordinated with Content ,Marketing, HR and Industrial Relations teams for various events."],
+    "school": ["Script writing in Tamil for inter-school skit competitions", "Won Prizes in inter-school and intra-school essay writing competitions."]
+  }
+}
