@@ -30,11 +30,22 @@
       "score": "97.5%"
     }
   ],
-  "projects": [
-    "Query specific Multiple Newspaper articles summarization",
-    "Footboard Accident Prevention System (FAPS), an inter-department project funded by Kurukshetra (a technical festival with UNESCO patronage)",
-    "Metro Ticketing System, integrated with a safety component-METRO 24*7",
-    "The House-An educational value game using Virtual Reality"
+  "projects": [{
+    "title": "Final year thesis - Query specific Multiple Newspaper articles summarization",
+    "desc": "An application to provide a summary of news articles based on data mining techniques"
+  },
+    {
+      "title":     "Footboard Accident Prevention System (FAPS)",
+      "desc": "An innovative solution to a social problem funded by Kurukshetra (a technical festival with UNESCO patronage)"
+    },
+    {
+      "title":     "METRO 24*7",
+      "desc": "A Metro Ticketing System integrated with a women safety component"
+    },
+    {
+      "title":     "The House",
+      "desc": "A game with entertainment cum educational value designed using Virtual Reality"
+    }
   ],
   "interests": [
     "With two years of civil services preparation, I have a fair knowledge in basic polity, socio-economic structure & the historical legacy of my country and its equation with world powers. Being an ardent politics follower , I am being trained at Political Science and International Relations(Masters level) for my Civil services specialization paper and it will be a great learning curve to put my skills into field-level politics."

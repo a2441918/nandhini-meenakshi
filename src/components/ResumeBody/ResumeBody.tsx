@@ -32,9 +32,14 @@ export interface IParticipation {
     school: string[]
 }
 
+export interface IProjects {
+    title: string;
+    desc: string;
+}
+
 interface IResumeBodyProps {
     education: IEducation[];
-    projects: string[];
+    projects: IProjects[];
     interests: string[];
     skills: ISkills;
     areasOfInterest: string[];
