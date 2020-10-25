@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nandhini-meenakshi/static/css/main.e54cd980.chunk.css",
-    "main.js": "/nandhini-meenakshi/static/js/main.2ff9434c.chunk.js",
-    "main.js.map": "/nandhini-meenakshi/static/js/main.2ff9434c.chunk.js.map",
+    "main.js": "/nandhini-meenakshi/static/js/main.9dc05061.chunk.js",
+    "main.js.map": "/nandhini-meenakshi/static/js/main.9dc05061.chunk.js.map",
     "runtime-main.js": "/nandhini-meenakshi/static/js/runtime-main.55ac4e0d.js",
     "runtime-main.js.map": "/nandhini-meenakshi/static/js/runtime-main.55ac4e0d.js.map",
-    "static/js/2.facc7309.chunk.js": "/nandhini-meenakshi/static/js/2.facc7309.chunk.js",
-    "static/js/2.facc7309.chunk.js.map": "/nandhini-meenakshi/static/js/2.facc7309.chunk.js.map",
+    "static/js/2.57fa20d8.chunk.js": "/nandhini-meenakshi/static/js/2.57fa20d8.chunk.js",
+    "static/js/2.57fa20d8.chunk.js.map": "/nandhini-meenakshi/static/js/2.57fa20d8.chunk.js.map",
     "static/js/3.c7dfc221.chunk.js": "/nandhini-meenakshi/static/js/3.c7dfc221.chunk.js",
     "static/js/3.c7dfc221.chunk.js.map": "/nandhini-meenakshi/static/js/3.c7dfc221.chunk.js.map",
     "index.html": "/nandhini-meenakshi/index.html",
     "static/css/main.e54cd980.chunk.css.map": "/nandhini-meenakshi/static/css/main.e54cd980.chunk.css.map",
-    "static/js/2.facc7309.chunk.js.LICENSE.txt": "/nandhini-meenakshi/static/js/2.facc7309.chunk.js.LICENSE.txt",
+    "static/js/2.57fa20d8.chunk.js.LICENSE.txt": "/nandhini-meenakshi/static/js/2.57fa20d8.chunk.js.LICENSE.txt",
     "static/media/resume-profile.cf0e3efe.png": "/nandhini-meenakshi/static/media/resume-profile.cf0e3efe.png"
   },
   "entrypoints": [
     "static/js/runtime-main.55ac4e0d.js",
-    "static/js/2.facc7309.chunk.js",
+    "static/js/2.57fa20d8.chunk.js",
     "static/css/main.e54cd980.chunk.css",
-    "static/js/main.2ff9434c.chunk.js"
+    "static/js/main.9dc05061.chunk.js"
   ]
 }
