@@ -56,7 +56,6 @@ const ResumeBody: FunctionComponent<IResumeBodyProps> = ({education, projects, i
                 <div className="resume-main col-12 col-lg-8 col-xl-9 pr-0 pr-lg-5">
                     <EducationSection details={education}/>
                     <ProjectsSection details={projects}/>
-                    <InterestSection details={interests} />
                     <AchievementsSection details={achievements} />
                     <PositionsHeldSection details={positionsHeld} />
                 </div>

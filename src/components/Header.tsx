@@ -30,14 +30,14 @@ const renderIcon = (type: IContactInfo['type']): IconDefinition => {
     }
 }
 
-const renderContactHref = (type: IContactInfo['type'], value: string) => {
+const renderContactHref = (type: IContactInfo['type'], value: string|undefined) => {
     switch (type) {
         case "phone":
             return `tel:${value}`
         case "email":
             return `mailto:${value}`
         default:
-            return value
+            return undefined
     }
 }
 
@@ -62,7 +62,7 @@ return (
                     return (
                         <li className="mb-2" key={uuidv4()}>
                             <FontAwesomeIcon icon={renderIcon(info.type)} className="fa-fw fa-lg mr-2 "/>
-                            <a className="resume-link" href={renderContactHref(info.type, info.value)}>{info.value}</a></li>
+                            <a className="resume-link" {...(renderContactHref(info.type, info.value) && {href: renderContactHref(info.type, info.value)})}>{info.value}</a></li>
                     )
                     })}
                 </ul>

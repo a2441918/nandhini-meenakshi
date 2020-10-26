@@ -1,6 +1,6 @@
 {
   "name": "Nandhini Meenakshi",
-  "roles": ["Indian Civil Service Aspirant", "Computer Science Engineer"],
+  "roles": ["Computer Science Engineer", "Indian Civil Service Aspirant"],
   "contact": [
     {
       "type": "phone",
@@ -15,7 +15,7 @@
       "value": "Chennai, India"
     }
 ],
-  "summary": "Highly ambitious and inquisitive person, preparing for Indian Civil Services Examinations, and looking for a mutually beneﬁcial environment that provides generous opportunities for learning ,solving and innovating.",
+  "summary": ["Highly ambitious and inquisitive person, preparing for Indian Civil Services Examinations, and looking for an environment that provides generous opportunities for learning ,solving and innovating.", "With two years of civil services preparation, I have a fair knowledge in basic polity, socio-economic structure & the historical legacy of my country and its equation with world powers.", "Being an ardent politics follower , I am being trained at Political Science and International Relations(Masters level) for my Civil services specialization paper and it will be a great learning curve to put my skills into field-level politics."],
   "education": [
     {
       "name": "College of Engineering, Guindy, Anna University, Chennai",
@@ -48,7 +48,6 @@
     }
   ],
   "interests": [
-    "With two years of civil services preparation, I have a fair knowledge in basic polity, socio-economic structure & the historical legacy of my country and its equation with world powers. Being an ardent politics follower , I am being trained at Political Science and International Relations(Masters level) for my Civil services specialization paper and it will be a great learning curve to put my skills into field-level politics."
   ],
   "skills": {
     "technical": [
