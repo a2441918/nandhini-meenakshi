@@ -1,6 +1,6 @@
 import React, {FunctionComponent} from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import profilePic from '../assets/images/resume-profile.png';
+import profilePic from '../assets/images/resume-profile.jpg';
 
 interface IIntroProps {
     summary: string[]
